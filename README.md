@@ -14,7 +14,7 @@ Here's a look at the tools and technologies I've been working with:
 - **Front-End**: React, Redux, Next.js, React Native, Tailwind CSS, Sass/SCSS, styled-components, Bootstrap
 - **Back-End**: Node.js, Express.js, MongoDB, GraphQL, WebSocket, Sanity
 - **Testing**: Jest, Playwright, Cypress
-- **DevOps**: Git, GitHub Actions, Jenkins, YAML, Cloud Services
+- **DevOps**: Git, Deployment, CI/CD, Cloud Services, Expo
 
 ### 🌱 What I'm Learning
 Right now, I’m focused on mastering containerization with Docker and diving into PostgreSQL to expand my database management skills. These tools are critical for modern, scalable application development, and I'm excited to integrate them into my workflow.
