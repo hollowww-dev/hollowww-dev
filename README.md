@@ -10,7 +10,7 @@ I enjoy turning ideas into reality with code and am constantly exploring new tec
 ### 🛠️ My Tech Stack
 Here's a look at the tools and technologies I've been working with:
 
-- **Languages**: TypeScript, JavaScript, Python, HTML5, CSS3
+- **Coding**: TypeScript, JavaScript, Python, HTML5, CSS3
 - **Front-End**: React, Redux, Next.js, React Native, Tailwind CSS, Sass/SCSS, styled-components, Bootstrap
 - **Back-End**: Node.js, Express.js, MongoDB, GraphQL, WebSocket, Sanity
 - **Testing**: Jest, Playwright, Cypress
