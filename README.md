@@ -16,8 +16,5 @@ Here's a look at the tools and technologies I've been working with:
 - **Testing**: Jest, Playwright, Cypress
 - **DevOps**: Git, Deployment, CI/CD, Cloud Services, Expo
 
-### 🌱 What I'm Learning
-Right now, I’m focused on mastering containerization with Docker and diving into PostgreSQL to expand my database management skills. These tools are critical for modern, scalable application development, and I'm excited to integrate them into my workflow.
-
 ### 📫 Let's Connect
 I’m excited to connect with fellow developers, collaborate on projects, and share knowledge. Feel free to check out my repositories, or even just drop me a message. Let’s create something amazing together!
